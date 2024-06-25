@@ -1,1 +1,1 @@
-# responsive-homepage-template
+# Responsive homepage template using Bootstrap only
